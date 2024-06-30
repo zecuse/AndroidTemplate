@@ -19,6 +19,6 @@ dependencyResolutionManagement {
 	}
 }
 
-rootProject.name = "Timepieces"
+rootProject.name = "Template"
 include(":app")
  
